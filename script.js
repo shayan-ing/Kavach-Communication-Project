@@ -1,5 +1,5 @@
 // Configuration
-const BASE_PIN = "2024"; // Your specified base PIN
+const BASE_PIN = "2025"; // Your specified base PIN
 const PIN_REFRESH_SECONDS = 30;
 const MAX_FILE_SIZE = 10 * 1024 * 1024; // 10MB
 const EMERGENCY_CONTACTS = [
